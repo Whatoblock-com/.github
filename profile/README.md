@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://whatoblock.com"><img src="https://img.shields.io/badge/website-whatoblock.com-c0392b?style=flat-square" alt="Website"></a>
+  <a href="https://whatoblock.com/blog"><img src="https://img.shields.io/badge/blog-whatoblock.com%2Fblog-2e86de?style=flat-square" alt="Blog"></a>
   <a href="https://x.com/whatoblock"><img src="https://img.shields.io/badge/@whatoblock-000000?style=flat-square&logo=x" alt="X"></a>
   <a href="mailto:info@whatoblock.com"><img src="https://img.shields.io/badge/contact-info%40whatoblock.com-555?style=flat-square" alt="Email"></a>
 </p>
